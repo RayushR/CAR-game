@@ -31,7 +31,7 @@ body {
   );
 }
 .cloud {
-  background: url(../images/cloud.png);
+  background: url(./cloud.png);
   height: 160px;
   background-repeat: repeat-x;
   margin-top: 3em;
@@ -39,7 +39,7 @@ body {
 }
 
 .city-inner {
-  background: url("../images/way.png");
+  background: url("./way.png");
   width: 500%;
   height: 650px;
   position: absolute;
