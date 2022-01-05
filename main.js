@@ -23,7 +23,7 @@ setInterval(function(){
 document.addEventListener('keypress',keycontrol);
 
 let light = false;
-let mycararr = ['images/lights-off.png','images/lights-on.png'];
+let mycararr = ['./lights-off.png','./lights-on.png'];
 let music = false;
 function keycontrol(e){
     if(e.keyCode == 32){
